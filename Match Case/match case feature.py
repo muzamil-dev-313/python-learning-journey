@@ -44,4 +44,12 @@ match day:
     case _:
         print("Other day")
 
-        
+
+
+age = int(input("Enter your age: "))        
+
+match age:
+    case age if age >= 18:
+        print("You can drive.")
+    case _:
+        print("You can't drive")
