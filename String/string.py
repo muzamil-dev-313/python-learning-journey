@@ -11,6 +11,7 @@ print(string)
 demo = 'a string (str) is an "immutable sequence" of Unicode characters used for storing and manipulating text data.'
 print(demo)
 
+
 poem = """Hope is the thing with feathers
 That perches in the soul,
 And sings the tune without the words
